@@ -28,7 +28,7 @@ import static org.junit.Assert.*;
 import org.junit.internal.AssumptionViolatedException;
 
 class Base {
-
+    //test updata
     protected void run() {
         double r = Math.random();
         if (r < 0.1) {
