@@ -27,6 +27,8 @@ package test;
 import static org.junit.Assert.*;
 import org.junit.internal.AssumptionViolatedException;
 //21234
+
+////1212
 class Base {
     //test updata
     protected void run() {
