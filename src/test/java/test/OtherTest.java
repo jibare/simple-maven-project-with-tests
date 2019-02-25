@@ -27,7 +27,7 @@ package test;
 import org.junit.Test;
 
 public class OtherTest extends Base {
-
+    //test update
     @Test public void mytest() {
         run();
     }
