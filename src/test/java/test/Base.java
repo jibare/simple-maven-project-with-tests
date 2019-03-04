@@ -33,6 +33,7 @@ import org.junit.internal.AssumptionViolatedException;
 ///
 class Base {
     //test updata
+    // adfa
     protected void run() {
         double r = Math.random();
         if (r < 0.1) {
